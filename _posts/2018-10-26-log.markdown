@@ -1,0 +1,8 @@
+---
+layout: log
+date:   2018-10-26 13:14:52 +0800
+title: '2018.10.26'
+author: "Sherry"
+---
+
+活着真tm累。
