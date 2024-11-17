@@ -1,0 +1,31 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: 'UA-112060364-1'
+
+menu:
+- {name: 'Posts', path: 'menu', url: 'posts.html'}
+- {name: 'Logs', path: 'menu', url: 'logs.html'}
+- {name: 'Books', path: 'menu', url: 'books.html'}
+- {name: 'Music', path: 'menu', url: 'music.html'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'github', link: 'https://www.github.com/wangshuihua'}
+- {icon: 'twitter', link: 'https://twitter.com/wangshuihua'}
+- {icon: 'envelope', link: 'mailto:shuihua.usa@gmail.com'}
+- {icon: 'rss-square', link: '/feed.xml'}
+
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+sharing_button_prompt: 'Feel free to share!'
+
+related_posts: ''
+
+post_date_prefix: 'Written on'
