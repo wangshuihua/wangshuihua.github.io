@@ -1,0 +1,16 @@
+{% for item in site.data.settings.social %}
+  {% assign first_char = item.link | slice: 0 %}
+  {% if item.icon == 'weixin' %}
+    <a href="/" class="{{ item.icon }}" style="position: relative;">
+      <i class="fa fa-{{ item.icon }}" aria-hidden="true"></i>
+      <div class="wechat-qrcode">
+        <span>公众号：<strong>possiblelives</strong></span>
+        <img src="/images/wx-qrcode.jpg" alt="follow wechat to get more info" />
+      </div>
+    </a>
+  {% else if first_char == '/' %}
+    <a href="{{ site.baseurl }}{{ item.link }}"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+  {% else %}
+    <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+  {% endif %}
+{% endfor %}
