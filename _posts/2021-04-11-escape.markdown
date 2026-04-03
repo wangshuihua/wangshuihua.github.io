@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "逃避"
+date:   2021-04-11 22:32:00 +0800
+author: "Sherry"
+image: /images/2021/mu-dan.jpg
+abstract: ""
+---
+
+![cover](/images/2021/mu-dan.jpg)
+
+人类对花草的热爱，是从逃避自我开始的；人类对动物的喜爱，是从逃避同类开始的。

@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "秋色"
+date:   2018-04-05 11:59 +0800
+author: "Sherry"
+image: /images/2018/maple_03.jpg
+abstract: "红中之黄，黄中之红。"
+---
+
+我能想到最烂漫的事，就是和你一起捡那秋日里的，红中之黄，黄中之红。
+
+![cover](/images/2018/maple_01.jpg)
+
+![cover](/images/2018/maple_02.jpg)
+
+![cover](/images/2018/maple_03.jpg)

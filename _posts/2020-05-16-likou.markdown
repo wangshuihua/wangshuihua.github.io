@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "小镇历口"
+date:   2020-05-16 20:18 +0800
+author: "Sherry"
+image: /images/2020/town-likou_03.jpg
+abstract: "小镇历口，伴君幽独。"
+---
+
+小镇历口，伴君幽独。
+
+![cover](/images/2020/town-likou_01.jpg)
+
+![cover](/images/2020/town-likou_04.jpg)
+
+![cover](/images/2020/town-likou_03.jpg)
+
+![cover](/images/2020/town-likou_02.jpg)
